@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meghnarajeev
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning MCA
+- 🌱 Software development student
 - 💞️ I’m looking to collaborate on Projects related to web
 - 📫 How to reach me meghnarajeev13@gmail.com
 
